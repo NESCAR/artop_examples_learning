@@ -29,7 +29,7 @@ $ git pull
 ## 2.1.添加要push的文件
 ## eg.$ git add . 
 $ git add [FILE_NAME]
-## 2.2.评论
+## 2.2.提交
 ## eg.$ git commit -m "finish artop-learning"
 $ git commit -m "[COMMIT]"
 ## 2.3 push项目
